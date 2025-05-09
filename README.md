@@ -1,4 +1,4 @@
-# mycapstoneproject1
+#WEATHER PREDICTION SOFTWARE 
 
 # Python Capstone Project Proposal Template
 
